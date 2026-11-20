@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/Rashiyasri/SEQUENCE DETECTOR/SEQUENCE DETECTOR.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/Rashiyasri/SEQUENCE DETECTOR/SEQUENCE DETECTOR.srcs/sim_1/new/tb_sequence_detector.v,1789482682,verilog,,,,tb_programmable_sequence_detector,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Rashiyasri/SEQUENCE DETECTOR/SEQUENCE DETECTOR.srcs/sources_1/new/sequence_detector.v,1789482682,verilog,,C:/Users/Rashiyasri/SEQUENCE DETECTOR/SEQUENCE DETECTOR.srcs/sim_1/new/tb_sequence_detector.v,,programmable_sequence_detector,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
